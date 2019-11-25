@@ -25,7 +25,5 @@ npm run test
 npm run lint
 ```
 
-## Лицензия
 
-[MIT](LICENSE)
 
